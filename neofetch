@@ -324,7 +324,7 @@ gtk_shorthand="on"
 # Example:
 # on:  'Numix [GTK2], Adwaita [GTK3]'
 # off: 'Adwaita [GTK3]'
-gtk2="off"
+gtk2="on"
 
 # Enable/Disable gtk3 Theme / Icons / Font
 #
@@ -335,7 +335,7 @@ gtk2="off"
 # Example:
 # on:  'Numix [GTK2], Adwaita [GTK3]'
 # off: 'Numix [GTK2]'
-gtk3="off"
+gtk3="on"
 
 
 # IP Address
